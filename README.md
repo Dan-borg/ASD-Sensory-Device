@@ -1,6 +1,6 @@
 # ASD-Sensory-Device
 
-# ASD Sensory Feedback Device
+## ASD Sensory Feedback Device
 
 A low-cost adaptive sensory feedback device built with ESP32 and Arduino 
 for supporting self-regulation in children aged 3-7 with Autism Spectrum Disorder.
